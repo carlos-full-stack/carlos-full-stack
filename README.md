@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-full-stack" alt="carlos-full-stack" /></a> </p>
 
-- 🔭 I’m currently working on ** Shopping Cart With Javascript **
-
-- 🌱 I’m currently learning **JavaScript & Vue**
-
-- 💬 Ask me about **HTML5, CSS3, Tailwind, JavaScript, PHP, PHPUnit, Laravel, Symfony, API Rest, MySql, MongoDB**
+- 💬 Ask me about **HTML5, CSS3, Tailwind, Boostrap, JavaScript, PHP, Laravel, API Rest, MySql, MongoDB**
 
 - 📫 How to reach me **carlosgilino@gmail.com**
 
