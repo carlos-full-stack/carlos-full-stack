@@ -1,25 +1,60 @@
-<h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">A curious and highly motivated full stack developer</h3>
+<h1 align="left">Hey 👋 I'm Carlos Martinez!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-full-stack&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-full-stack" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-full-stack" alt="carlos-full-stack" /></a> </p>
+<p align="left">An experienced front-end developer with back-end knowledge</p>
 
-- 💬 Ask me about **HTML5, CSS3, Tailwind, Boostrap, JavaScript, PHP, Laravel, API Rest, MySql, MongoDB**
+###
 
-- 📫 How to reach me **carlosgilino@gmail.com**
+<h2 align="left">About my career</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlos-full-stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos-full-stack" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+<p align="left">💻My last proyect is: <a target="_blank" href="https://github.com/carlos-full-stack/meditation_timer">Meditation web app</a>.<br>🎓 I studied at: La Salle (Front-end developer), IT Academy (PHP Full Stack developer)<br>🗣️Let's talk about: JavaScript, PHP, Laravel, MySql, Bootstrap, Tailwind, Figma, Git.<br>🎯 Goals: consolidate my carrer as programmer.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-full-stack&show_icons=true&locale=en&layout=compact" alt="carlos-full-stack" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlos-full-stack&show_icons=true&locale=en" alt="carlos-full-stack" /></p>
+<h2 align="left">About me</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-full-stack&" alt="carlos-full-stack" /></p>
+###
+
+<p align="left">🛩️ I'm from Galicia. I moved to Barcelona when I was 19 years old, and I've been living here since then.<br>🌍 Many of my friends are from other countries. I love diversity and practicing English.</p>
+
+###
+
+<p align="left">📨 Let's talk:  <a href="mailto:carlosgilino@gmail.com">carlosgilino@gmail.com</a></p>
+<p align="left">📲 Let's connect:  https://www.linkedin.com/in/carlos-full-stack/</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlos-full-stack&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
