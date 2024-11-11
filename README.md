@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻My last proyect is: <a target="_blank" href="https://carlos-full-stack.github.io/meditation_timer/">Meditation timer</a>.<br> ♥️My favourite project is: <a target="_blank" href="https://clubs-manager-68e8f098f6b7.herokuapp.com/">Clubs Manager</a>.<br> 🎓 I studied at: La Salle University (Front-end developer), IT Academy (PHP Full Stack developer)<br>🗣️Let's talk about: JavaScript, PHP, Laravel, MySql, Bootstrap, Tailwind, Figma, Git.<br>🎯 Goals: consolidate my carrer as programmer.</p>
+<p align="left">💻My last proyect is: <a target="_blank" href="https://carlos-full-stack.github.io/meditation_timer/">Meditation timer</a>.<br> ♥️My favourite project is: <a target="_blank" href="https://clubs-manager-68e8f098f6b7.herokuapp.com/">Clubs Manager</a>.<br> 🧑‍🎓 The project that I have learned the most from: <a target="_blank" href="https://edu-front-delta.vercel.app/">EduMap</a> (Collaborative project).<br><br> 🎓 I studied at: La Salle University (Front-end developer), IT Academy (PHP Full Stack developer)<br>🗣️Let's talk about: JavaScript, PHP, Laravel, MySql, Bootstrap, Tailwind, Figma, Git.<br>🎯 Goals: consolidate my carrer as programmer.</p>
 
 ###
 
